@@ -14,7 +14,7 @@ I am a software engineer with a knack for blending technical expertise with crea
 ---
 
 ## 🌟 My Expertise  
-- Languages: JavaScript, Python, HTML, CSS  
+- Languages: JavaScript, Python, HTML, CSS, C 
 - Frameworks & Tools: React, Node.js, Git, Figma  
 - specialties: Digital Marketing, Web Development, UI/UX Design  
 
