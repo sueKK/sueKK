@@ -1,5 +1,5 @@
 
-##👋 Hello, I'm Suzzy Kawira!
+## 👋 Hello, I'm Suzzy Kawira!
 <br>
 🎨 Creative Coder | Digital Marketer | Art Enthusiast
 
@@ -26,7 +26,7 @@ I am a software engineer with a knack for blending technical expertise with crea
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueKK&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueKK&show_icons=true&theme=synthwave)]
 
 ## 📬 Let’s Connect  
 I’m always excited to collaborate and connect with like-minded creatives.  
