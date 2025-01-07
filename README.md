@@ -1,5 +1,6 @@
 
-👋 Hello, I'm Suzzy Kawira!
+##👋 Hello, I'm Suzzy Kawira!
+<br>
 🎨 Creative Coder | Digital Marketer | Art Enthusiast
 
 ---
